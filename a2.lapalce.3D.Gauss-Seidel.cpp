@@ -8,6 +8,7 @@
 u(x,y,z) = x^3 + y^2 + z^2
 f(x,y,z) = 6x + 4
 x,y,z in [0,1]
+Not converged, I don't know the reason. Maybe wrong code?
 */
 
 //#define  N   (2*2*2*2*2*2+2)
